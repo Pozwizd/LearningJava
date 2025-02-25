@@ -58,7 +58,7 @@ int size = numbers.length; // size будет равно 5
 
 ## Инструкции
 
-1.  Создайте новый файл с именем `ArraysLesson.java` в `src/main/java/com/pozwizd/lesson4/basic/`.
+1.  Создайте новый файл с именем `ArraysLesson.java` в `src/main/java/com/pozwizd/lesson4/`.
 2.  Реализуйте методы `createArray`, `sumArray` и `findMax`.
 3.  Используйте циклы для перебора элементов массива.
 
